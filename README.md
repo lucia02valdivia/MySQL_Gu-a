@@ -1,7 +1,9 @@
 # MySQL Guia
 Este repositorio está diseñado para proporcionar una guía paso a paso sobre cómo crear y gestionar bases de datos MySQL dentro de contenedores Docker. Incluye comandos esenciales para crear, gestionar, respaldar, restaurar y conectar contenedores MySQL, asegurando la persistencia de datos mediante volúmenes y permitiendo la ejecución de tareas comunes de administración de bases de datos. 
+
 *ATENCIÓN*
-*Este repositorio se encuentra en proceso ya que lo completo con comando que vaya necesitando*
+
+*Este repositorio se encuentra en proceso ya que lo completo con comandos que vaya necesitando*
 
 ---
 
